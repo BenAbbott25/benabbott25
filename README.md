@@ -42,5 +42,5 @@ Developed machine learning models using Python, TensorFlow, and Scikit-learn for
 
 I'm always open to discussing new opportunities, innovative projects, and collaboration. Feel free to reach out!
 
-📧 Email: [benabbott450@gmail.com](mailto:benabbott450@gmail.com)  
+📧 Email: [benabbott250@gmail.com](mailto:benabbott250@gmail.com)  
 💼 [CBM Digital](https://www.cbmdigital.co.uk)
