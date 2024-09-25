@@ -27,12 +27,6 @@ I'm a passionate software engineer with a strong background in full-stack develo
 - **AI Customer Support System for Zen Internet**: Developed an AI-powered customer support system using React, Node.js, and AWS Lambda, automating user inquiries and enhancing response efficiency.
 - **CBM Digital Website**: Built and maintained the company website with Next.js, React, and AWS Amplify. Integrated AWS CDK for infrastructure management and GitHub Actions for CI/CD.
 
-### Viva Health Laboratories – Quality Control Analyst
-- Validated and verified COVID-related processes utilizing data analysis to ensure process accuracy and reliability.
-
-### UK Biocentre – Validation Scientist
-- Managed validation and verification of laboratory systems for the COVID response project.
-
 ## 🌟 Featured Projects
 
 ### [Zen Internet AI Customer Support System](https://www.cbmdigital.co.uk/work/zeninternet)
